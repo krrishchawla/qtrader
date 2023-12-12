@@ -1,0 +1,155 @@
+McDonalds:
+Sentiment 55, weight 20
+optimal action =         [1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1]
+random policy =          [1, 0, 2, 1, 2, 1, 1, 2, 0, 1, 2, 0, 1, 1, 2, 2, 2, 0, 0, 1, 0, 2, 0, 0, 0, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  6377.799999999999
+New Value =  7234.830000000001
+Percent Change =  13.437705791965907
+
+Random Policy:
+Old Value =  6377.799999999999
+New Value =  6909.77
+Percent Change =  8.34096396876668
+
+All Hold Policy with initial position:
+Old Value =  6377.799999999999
+New Value =  6968.200000000001
+Percent Change =  9.257110602402106
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0
+
+Sentiment nothing:
+optimal action =         [1, 1, 2, 1, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2]
+random policy =          [1, 2, 0, 2, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 2, 0, 0, 0, 2, 2, 0, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  6377.799999999999
+New Value =  6996.67
+Percent Change =  9.703502775251668
+
+Random Policy:
+Old Value =  6377.799999999999
+New Value =  6907.5
+Percent Change =  8.305371758286569
+
+All Hold Policy with initial position:
+Old Value =  6377.799999999999
+New Value =  6968.200000000001
+Percent Change =  9.257110602402106
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0
+
+
+GOOGLE:
+Sentiment 70, weight 20
+optimal action =         [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+random policy =          [2, 1, 0, 2, 0, 0, 0, 1, 1, 1, 2, 0, 2, 1, 2, 2, 2, 0, 0, 0, 0, 1, 0, 2, 1, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  2856.0
+New Value =  3704.7149999999992
+Percent Change =  29.716911764705856
+
+Random Policy:
+Old Value =  2856.0
+New Value =  3398.495
+Percent Change =  18.994922969187673
+
+All Hold Policy with initial position:
+Old Value =  2856.0
+New Value =  3419.4
+Percent Change =  19.726890756302524
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0
+
+Sentiment none:
+optimal action =         [2, 2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+random policy =          [0, 0, 1, 1, 1, 0, 1, 0, 2, 1, 0, 2, 0, 1, 0, 2, 2, 2, 0, 2, 2, 0, 1, 1, 1, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  2856.0
+New Value =  3500.015
+Percent Change =  22.549544817927167
+
+Random Policy:
+Old Value =  2856.0
+New Value =  3353.535
+Percent Change =  17.42069327731092
+
+All Hold Policy with initial position:
+Old Value =  2856.0
+New Value =  3419.4
+Percent Change =  19.726890756302524
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0
+
+
+MACYS:
+Sentiment Score 30, weight 20
+optimal action =         [2, 2, 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1]
+random policy =          [0, 0, 1, 0, 0, 2, 1, 0, 2, 0, 2, 2, 1, 0, 0, 1, 0, 0, 2, 0, 0, 1, 1, 1, 0, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  1460.2
+New Value =  1350.66
+Percent Change =  -7.501712094233665
+
+Random Policy:
+Old Value =  1460.2
+New Value =  1299.89
+Percent Change =  -10.978633063963837
+
+All Hold Policy with initial position:
+Old Value =  1460.2
+New Value =  1321.0
+Percent Change =  -9.532940693055748
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0
+
+
+Sentiment nothing
+optimal action =         [2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 1]
+random policy =          [1, 0, 0, 1, 0, 2, 1, 0, 2, 2, 0, 0, 1, 2, 0, 1, 1, 0, 0, 0, 2, 1, 0, 2, 0, 1]
+all hold policy =        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Optimal Policy:
+Old Value =  1460.2
+New Value =  1337.1
+Percent Change =  -8.430352006574452
+
+Random Policy:
+Old Value =  1460.2
+New Value =  1317.5400000000002
+Percent Change =  -9.769894534995197
+
+All Hold Policy with initial position:
+Old Value =  1460.2
+New Value =  1321.0
+Percent Change =  -9.532940693055748
+
+All Hold Policy with no position:
+Old Value =  1000.0
+New Value =  1000.0
+Percent Change =  0.0

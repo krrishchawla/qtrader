@@ -1,0 +1,11 @@
+# Mac DS Store
+./DS_Store
+.DS_Store
+
+# Pycache Files
+*.pyc
+__pycache__/
+
+*.pth
+
+*.csv
